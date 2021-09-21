@@ -1,0 +1,11 @@
+DevOps is a set of practices that combines software development and IT operations.
+It aims to shorten the systems development life cycle
+and provide continuous delivery with high software quality. 
+DevOps is complementary with Agile software development; 
+several DevOps aspects came from the Agile methodology. Wikipedia
+
+
+FB need change in deployment:-
+*the new features are first deploy a smaller user base
+*they continioudly monitoring and feedback continiously develop and tested
+*once features are stable ,they deploy on other user base in muliple realease.
